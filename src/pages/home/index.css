@@ -1,0 +1,7 @@
+.app {
+    color: rgb(176, 86, 86);
+    border: 1px solid rgb(1, 1, 1);
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-size;
+  }
