@@ -1,13 +1,15 @@
-import React from 'react';
-import List from './components/List'
-import Secs from './components/Secs'
-import './index.css'
+import React from "react";
+import Topnav from "./components/topnav";
+import Content from "./components/content";
+import "./index.css";
 
 const Home = () => {
-    return <div className='app'>
-        <List />
-        <Secs />
+  return (
+    <div className="app">
+      <Topnav />
+      <Content />
     </div>
-}
+  );
+};
 
-export default Home
+export default Home;

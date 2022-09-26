@@ -1,7 +1,13 @@
 .app {
-    color: rgb(176, 86, 86);
-    border: 1px solid rgb(1, 1, 1);
-    width: 100%;
-    padding: 20px;
-    box-sizing: border-size;
-  }
+  color: rgb(176, 86, 86);
+  border: 1px solid rgb(1, 1, 1);
+  width: 80%;
+  padding: 1vw;
+  font-size: 2vw;
+  box-sizing: border-size;
+  /* text-align: center; */
+  margin: auto;
+  /* display: flex; */
+  justify-content: space-between;
+  /* align-items: center; */
+}
